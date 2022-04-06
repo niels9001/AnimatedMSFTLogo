@@ -1,0 +1,1 @@
+C:\Repos\MSFTLogo\MSFTLogo\MSFTLogo.csproj;x86
