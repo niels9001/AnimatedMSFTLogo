@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj": {}
+    "C:\\Repos\\AnimatedMSFTLogo\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj": {
+    "C:\\Repos\\AnimatedMSFTLogo\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj",
+        "projectUniqueName": "C:\\Repos\\AnimatedMSFTLogo\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj",
         "projectName": "MSFTLogo",
-        "projectPath": "C:\\Repos\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj",
+        "projectPath": "C:\\Repos\\AnimatedMSFTLogo\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj",
         "packagesPath": "C:\\Users\\310035643\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\MSFTLogo\\MSFTLogo\\obj\\",
+        "outputPath": "C:\\Repos\\AnimatedMSFTLogo\\MSFTLogo\\MSFTLogo\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

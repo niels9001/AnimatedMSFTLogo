@@ -1,1 +1,1 @@
-C:\Repos\MSFTLogo\MSFTLogo\MSFTLogo.csproj;x86
+C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\MSFTLogo.csproj;x86

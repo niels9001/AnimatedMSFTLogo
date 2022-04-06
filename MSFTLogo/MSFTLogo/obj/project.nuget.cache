@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ZSyvCJ5jpPZ883eLmK/IMkSaJeeMGOIKtX1n7kC9oXizDewUgtfJb3MRHuvJz2qTrm/+TeYEMqQZIwM/wuCjw==",
+  "dgSpecHash": "UltFlsngizrIDJKLT40WxhSmM0hMnAWGNOebNLkRVlo0uRHi7iT1sWPHD8Ben35HC7j0bdnW/AsmPXF7xDfN/w==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj",
+  "projectFilePath": "C:\\Repos\\AnimatedMSFTLogo\\MSFTLogo\\MSFTLogo\\MSFTLogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\310035643\\.nuget\\packages\\colorcode.core\\2.0.6\\colorcode.core.2.0.6.nupkg.sha512",
     "C:\\Users\\310035643\\.nuget\\packages\\colorcode.uwp\\2.0.6\\colorcode.uwp.2.0.6.nupkg.sha512",

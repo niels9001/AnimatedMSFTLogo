@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>691cb996-ab5f-4cce-8497-0b283523b75f</PackageIdentityName>
     <PackageIdentityPublisher>CN=310035643</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Repos\MSFTLogo\MSFTLogo\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>1D802DF96DCCF529CFAC5807BD960E05D9FB4687A165DF1E37BB724598D0DD65</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>691cb996-ab5f-4cce-8497-0b283523b75f_1.0.0.0_x86__v56hyf5306kwa</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>691cb996-ab5f-4cce-8497-0b283523b75f_v56hyf5306kwa!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-06T07:48:39.301</Modified>
+      <Modified>2022-04-06T07:55:50.174</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\MSFTLogo.exe">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\MSFTLogo.exe">
       <PackagePath>entrypoint\MSFTLogo.exe</PackagePath>
-      <Modified>2022-04-06T07:48:37.874</Modified>
+      <Modified>2022-04-06T07:55:48.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\310035643\.nuget\packages\colorcode.core\2.0.6\lib\netstandard1.4\ColorCode.Core.dll">
       <PackagePath>ColorCode.Core.dll</PackagePath>
@@ -162,75 +162,75 @@
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.Media\Microsoft.Toolkit.Uwp.UI.Controls.Media.xr.xml</PackagePath>
       <Modified>2021-11-18T21:55:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\GIFs\Surface.gif">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\GIFs\Surface.gif">
       <PackagePath>Assets\GIFs\Surface.gif</PackagePath>
       <Modified>2022-04-03T15:06:42.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\GIFs\Office.gif">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\GIFs\Office.gif">
       <PackagePath>Assets\GIFs\Office.gif</PackagePath>
       <Modified>2022-03-22T15:40:41.384</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\GIFs\Windows.gif">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\GIFs\Windows.gif">
       <PackagePath>Assets\GIFs\Windows.gif</PackagePath>
       <Modified>2022-03-22T15:28:36.749</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\GIFs\Xbox.gif">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\GIFs\Xbox.gif">
       <PackagePath>Assets\GIFs\Xbox.gif</PackagePath>
       <Modified>2022-03-22T15:46:46.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2022-03-10T15:32:16.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2022-02-22T15:41:07.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-02-22T15:41:07.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-02-22T15:41:07.213</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-02-22T15:41:07.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-02-22T15:41:07.216</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-02-22T15:41:07.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-02-22T15:41:07.219</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\MSFTLogo.xr.xml">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\MSFTLogo.xr.xml">
       <PackagePath>MSFTLogo.xr.xml</PackagePath>
       <Modified>2022-04-06T07:48:06.373</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-04-06T07:48:37.796</Modified>
+      <Modified>2022-04-06T07:55:47.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\AnimatableQuadrant.xbf">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\AnimatableQuadrant.xbf">
       <PackagePath>AnimatableQuadrant.xbf</PackagePath>
-      <Modified>2022-04-06T07:48:37.796</Modified>
+      <Modified>2022-04-06T07:55:47.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-04-06T07:48:37.796</Modified>
+      <Modified>2022-04-06T07:55:47.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22000.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -244,13 +244,13 @@
       <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2022-03-17T16:43:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-04-06T07:48:07.098</Modified>
+      <Modified>2022-04-06T07:55:48.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\MSFTLogo\MSFTLogo\bin\x86\Debug\Core\MSFTLogo.exe">
+    <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\Core\MSFTLogo.exe">
       <PackagePath>MSFTLogo.exe</PackagePath>
-      <Modified>2022-04-06T07:48:39.282</Modified>
+      <Modified>2022-04-06T07:55:50.145</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
