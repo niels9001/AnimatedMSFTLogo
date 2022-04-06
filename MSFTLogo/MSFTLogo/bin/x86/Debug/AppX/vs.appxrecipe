@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-06T07:55:50.174</Modified>
+      <Modified>2022-04-06T08:31:32.564</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\MSFTLogo.exe">
       <PackagePath>entrypoint\MSFTLogo.exe</PackagePath>
-      <Modified>2022-04-06T07:55:48.050</Modified>
+      <Modified>2022-04-06T08:31:31.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\310035643\.nuget\packages\colorcode.core\2.0.6\lib\netstandard1.4\ColorCode.Core.dll">
       <PackagePath>ColorCode.Core.dll</PackagePath>
@@ -222,15 +222,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-04-06T07:55:47.962</Modified>
+      <Modified>2022-04-06T08:31:31.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\AnimatableQuadrant.xbf">
       <PackagePath>AnimatableQuadrant.xbf</PackagePath>
-      <Modified>2022-04-06T07:55:47.962</Modified>
+      <Modified>2022-04-06T08:31:31.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-04-06T07:55:47.962</Modified>
+      <Modified>2022-04-06T08:31:31.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22000.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -250,7 +250,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Repos\AnimatedMSFTLogo\MSFTLogo\MSFTLogo\bin\x86\Debug\Core\MSFTLogo.exe">
       <PackagePath>MSFTLogo.exe</PackagePath>
-      <Modified>2022-04-06T07:55:50.145</Modified>
+      <Modified>2022-04-06T08:31:32.547</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
