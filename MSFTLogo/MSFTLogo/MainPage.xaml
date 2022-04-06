@@ -19,7 +19,7 @@
     muxc:BackdropMaterial.ApplyToRootOrPageBackground="True">
     
     <Grid>
-        <Rectangle x:Name="DarkBackground" Visibility="Visible" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Fill="Black" Opacity="1">
+        <Rectangle x:Name="DarkBackground" Visibility="Visible" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Fill="Black" Opacity="0.9">
             <animations:Implicit.ShowAnimations>
                 <animations:OpacityAnimation To="0.9" Duration="0:0:0.4"/>
             </animations:Implicit.ShowAnimations>
